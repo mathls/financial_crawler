@@ -6,7 +6,7 @@
 import pywinmacro as pw
 import time
 
-location1 = (158. 65)  # 주소창
+location1 = (158, 65)  # 주소창
 location2 = (217, 122) # 검색창
 location3 = (324, 526) # history data
 location4 = (631, 698) # 다운로드
